@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a student
+- 🏢 I'm a university student
 - 👨‍💻 As a student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a juice enthusiast and my perfect day would start and end with a cup of juice.
@@ -22,9 +22,7 @@
 
 <a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-salma%20idrissi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-salma%20idrissi-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG02OG00dm11c2I0cG9wNzU4dGh4eWdma3VtcnJpaDZsdDg1bnZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QQBup1i9lZBa0jEYih/giphy.gif"/></a>
-
-
+<a 
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
